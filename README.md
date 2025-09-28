@@ -154,7 +154,3 @@ If you encounter any issues or have questions:
 - [ ] Advanced code metrics and insights
 - [ ] Plugin system for custom integrations
 - [ ] Mobile-responsive enhancements
-
----
-
-Built with ❤️ for developers who want to understand code better.
